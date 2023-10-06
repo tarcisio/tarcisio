@@ -1,0 +1,14 @@
+[
+  {
+    "id": "a-commit",
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/miaversa/site/commit/a248b0b6c3048ae6156a787e0c9542e410c565cf\"><strong>a</strong>248b0b6c3048ae6156a787e0c9542e410c565cf</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "ab-commit",
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/miaversa/site/commit/aba39a775842269a1ea6e1937bc0e9c0024a9a20\"><strong>ab</strong>a39a775842269a1ea6e1937bc0e9c0024a9a20</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+  }
+]
