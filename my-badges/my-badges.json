@@ -29,14 +29,14 @@
   },
   {
     "id": "github-anniversary-10",
-    "tier": 0,
+    "tier": 1,
     "desc": "I joined GitHub 10 years ago.",
     "body": "",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-10.png?raw=true"
   },
   {
     "id": "github-anniversary-15",
-    "tier": 0,
+    "tier": 2,
     "desc": "I joined GitHub 15 years ago.",
     "body": "",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-15.png?raw=true"
