@@ -47,5 +47,12 @@
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"cart\".",
+    "body": "My favorite commit message words are:\n\n1. cart (used 73 times)\n2. commit (used 8 times)\n3. estilos (used 7 times)\n4. adicionado (used 7 times)\n5. readme (used 5 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   }
 ]
